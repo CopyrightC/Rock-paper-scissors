@@ -11,3 +11,5 @@ git clone https://github.com/SATAN01/Rock-paper-scissors
 cd Rock-paper-scissors
 index.html
 ```
+
+Or you can simply play it online [here](https://copyrightc.000webhostapp.com/)
